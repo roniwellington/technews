@@ -647,6 +647,7 @@ section {
 .post .thumb img {
     transform: scale(1);
     transition: all 0.3s ease-in-out;
+    height: 60px;
 }
 
 .post .thumb:hover img {

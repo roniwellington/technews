@@ -209,7 +209,7 @@
 
 .sidebar-people-row {
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     flex-direction: column;
     margin: 6px 0;
 }
