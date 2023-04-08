@@ -1,9 +1,9 @@
-.header {
+.header-texto {
     text-align: center;
     padding: 32px;
   }
   
-  .row {
+  .rowGrid {
     display: -ms-flexbox; /* IE10 */
     display: flex;
     -ms-flex-wrap: wrap; /* IE10 */
