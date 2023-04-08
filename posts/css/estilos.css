@@ -182,3 +182,8 @@ a {
     border-radius: 20px;
 }
 
+.fonte {
+    color: var(--color-danger);
+    font-weight: 500;
+}
+

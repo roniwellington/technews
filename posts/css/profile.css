@@ -46,6 +46,11 @@
     border-radius: 10px;
 }
 
+.imagem-principal {
+    border-radius: 10px;
+    
+}
+
 .profile-container b {
     font-weight: 500;
     
@@ -186,6 +191,8 @@
     font-weight: 500;
     color: var(--color-white);
 }
+
+
 
 /* ===============PROFILE-RIGHT-SIDEBAR================= */
 .profile-sidebar .sidebar-ad {
