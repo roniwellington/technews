@@ -250,7 +250,7 @@
 
 
 .post-container {
-    max-width: 650px;
+    max-width: 700px;
     margin: auto;
     width: 100%;
 }
@@ -276,6 +276,10 @@
 
 
 @media screen and (max-width: 600px){
+    .profile-main {
+        padding: 0;
+    }
+
     .profile-main, .profile-sidebar {
         flex-basis: 100%;
     }

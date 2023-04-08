@@ -85,23 +85,7 @@
       padding: 0;
     }
 
-    .navbar-center ul li a span {
-      display: none;
-    }
-
-    .navbar-center ul li a {
-      padding-right: 0;
-      margin: 5px;
-    }
-
-    .nav-profile-img {
-      width: 30px;
-    }
-
-    .navbar-left h2 {
-      display: none;
-    }
-
+    
     .container {
       padding: 15px 3%;
     }
@@ -143,5 +127,6 @@
     .sidebar-activity.open-activity {
       display: block; 
     }
+
 
   }
