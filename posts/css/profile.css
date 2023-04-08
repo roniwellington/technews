@@ -209,13 +209,15 @@
 
 .sidebar-people-row {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
+    flex-direction: column;
     margin: 6px 0;
 }
 
 .sidebar-people-row img {
-    width: 40px;
-    border-radius: 50%;
+    width: 100%;
+    height: 150px;
+    border-radius: 15px;
     margin-right: 8px;
     margin-top: 5px;
 }
@@ -261,6 +263,7 @@
     justify-content: space-between;
     margin-top: 50px;
     border: 1px solid rgb(160, 160, 160);
+    border-radius: 10px;
 }
 
 .post-perfil img {
