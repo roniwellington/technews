@@ -42,8 +42,13 @@
     
 }
 
+.profile-container {
+    border-radius: 10px;
+}
+
 .profile-container b {
     font-weight: 500;
+    
 }
 
 .profile-container p {
@@ -94,6 +99,7 @@
     background: var(--color-white);
     padding: 20px 4% 30px;
     margin: 12px 0;
+    border-radius: 10px;
 
 }
 
@@ -191,12 +197,14 @@
     padding: 15px 25px;
     margin: 12px 0;
     font-size: 12px;
+    border-radius: 10px;
 }
 
 .sidebar-people h3 {
     font-size: 16px;
     font-weight: 600;
     margin: 10px 0 20px;
+    
 }
 
 .sidebar-people-row {
